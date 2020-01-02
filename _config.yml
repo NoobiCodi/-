@@ -1,3 +1,6 @@
 url: "https://noobicodi.github.io/krinetik/"
 baseurl: "krinetik"
 title: "Кринетик"
+
+sass:
+  sass_dir: _sass
